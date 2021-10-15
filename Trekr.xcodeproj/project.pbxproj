@@ -14,6 +14,7 @@
 		B9CD70BF2717F44E00FF8F7A /* TrekrTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CD70BE2717F44E00FF8F7A /* TrekrTests.swift */; };
 		B9CD70C92717F44E00FF8F7A /* TrekrUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CD70C82717F44E00FF8F7A /* TrekrUITests.swift */; };
 		B9CD70CB2717F44E00FF8F7A /* TrekrUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CD70CA2717F44E00FF8F7A /* TrekrUITestsLaunchTests.swift */; };
+		B9CD70D82719F56B00FF8F7A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B9CD70D72719F56B00FF8F7A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B9CD70C42717F44E00FF8F7A /* TrekrUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TrekrUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9CD70C82717F44E00FF8F7A /* TrekrUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrekrUITests.swift; sourceTree = "<group>"; };
 		B9CD70CA2717F44E00FF8F7A /* TrekrUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrekrUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B9CD70D72719F56B00FF8F7A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		B9CD70A12717F44C00FF8F7A = {
 			isa = PBXGroup;
 			children = (
+				B9CD70D72719F56B00FF8F7A /* README.md */,
 				B9CD70AC2717F44C00FF8F7A /* Trekr */,
 				B9CD70BD2717F44E00FF8F7A /* TrekrTests */,
 				B9CD70C72717F44E00FF8F7A /* TrekrUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9CD70D82719F56B00FF8F7A /* README.md in Resources */,
 				B9CD70B52717F44E00FF8F7A /* Preview Assets.xcassets in Resources */,
 				B9CD70B22717F44E00FF8F7A /* Assets.xcassets in Resources */,
 			);
